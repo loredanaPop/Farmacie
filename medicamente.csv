@@ -1,11 +1,11 @@
-"IDMEDICAMENT","DENUMIREMEDICAMENT","COMPOZITIE","NRETICHETA","CODFURNIZOR"
-"M01","Aesculap","tetraciclina 2,50 g, eritromicina 1,20 g, sulfat de neomicina 1,20 g, prednisolon 0,06 g,","ET01",73654
-"M02","Mesalazinum","2 mg metoprolol succinat,3 mg metoprolol tartrat","ET02",73655
-"M03","Acid Folic","vitamina B","ET03",73656
-"M04","Amiodarona","clorhidrat de amiodarona, lactoza monohidrat, amidon de porumb","ET04",73657
-"M05","Tusin","bromhidrat de dextrometorfan","ET05",73658
-"M06","Tusin","bromhidrat de dextrometorfan","ET06",73659
-"M07","Nurofen Forte","croscarmeloza,acid stearic,citrat de sodiu, talc,guma arabica dispersata","ET07",73660
-"M08","Nitroderm","propanetriol,nitroderm,dimetricona,silica aerogel,silicon adeziv medical","ET08",73661
-"M09","Norvasc","amlodipina besilat","ET09",73662
-"M10","Clearancdelul","Fluconazol","ET10",73663
+IDMEDICAMENT,DENUMIREMEDICAMENT,COMPOZITIE,NRETICHETA,FURNIZOR
+M01,Aesculap,"tetraciclina 2,50 g, eritromicina 1,20 g, sulfat de neomicina 1,20 g, prednisolon 0,06 g,",ET01,Biomedica
+M02,Mesalazinum,"2 mg metoprolol succinat,3 mg metoprolol tartrat",ET02,Biomedica
+M03,Acid Folic,vitamina B,ET03,Arsenia
+M04,Amiodarona,"clorhidrat de amiodarona, lactoza monohidrat, amidon de porumb",ET04,Biomedica
+M05,Tusin,bromhidrat de dextrometorfan,ET05,Rophrama
+M06,Tusin,bromhidrat de dextrometorfan,ET06,Rophrama
+M07,Nurofen Forte,"croscarmeloza,acid stearic,citrat de sodiu, talc,guma arabica dispersata",ET07,Biotis
+M08,Nitroderm,"propanetriol,nitroderm,dimetricona,silica aerogel,silicon adeziv medical",ET08,Biotis
+M09,Norvasc,amlodipina besilat,ET09,Biotis
+M10,Clearancdelul,Fluconazol,ET10,Arsenia
