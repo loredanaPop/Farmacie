@@ -1,7 +1,0 @@
-INSERT INTO Discounturi VALUES ('D02','Farmacie','PosesoriMyard',0.2); 
-INSERT INTO Discounturi VALUES ('D03','Serviciu Ambulatoriu','PosesoriMyard',0.3); 
-INSERT INTO Discounturi VALUES ('D04','Servicii spital','PosesoriMyard',0.4); 
-INSERT INTO Discounturi VALUES ('D06','Servicii medicale mobile','PosesoriMyard',0.6); 
-INSERT INTO Discounturi VALUES ('D05','Servicii spital','Copii',0.5); 
-INSERT INTO Discounturi VALUES ('D10','Servicii spital','Pensionari',0.10); 
-INSERT INTO Discounturi VALUES ('D15','Servicii spital','Studenti/Elevi',0.15);
