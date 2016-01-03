@@ -1,7 +1,7 @@
-"IDPACIENT","IDABONAMENT","CNP","NUMEPACIENT","PRENUMEPACIENT","DATANASTERII","ADRESA","TELEFON","OCUPATIE"
-"P1","Ab6","1950525345678","Vasilescu","Dan",25-05-1995,"Bacau, str. VAsilescu, nr 5",745678990,"Elev"
-"P2","Ab5","1200424123456","Vasiliu","Manu",24-04-2000,"Iasi, str. Bahnlui",712345678,"Elev"
-"P3","Ab4","2250909012346","Sescu","Cristina",24-09-2005,"Iasi, str. Podu de fier",987654321,"Elev"
-"P4","Ab3","2231219891236","Vranceanu"," Gabriel",23-12-1989,"Bacau str. Bacinschi, nr 4",234567890,"Masterand"
-"P5","Ab2","1630528908990","Stan","Mihai",28-05-1963,"Neamt, str. Tabacului",2352234234,"Angajat"
-"P6","Ab1","2412412129078","Stan","Maria",24-12-1941,"Bralad, str. Pruncului",,"Pensionar"
+IDPACIENT,IDABONAMENT,CNP,NUMEPACIENT,PRENUMEPACIENT,DATANASTERII,Oras,TELEFON,OCUPATIE
+P1,Ab6,1.95053E+12,Vasilescu,Dan,25-05-1995,Bacau,745678990,Elev
+P2,Ab5,1.20042E+12,Vasiliu,Manu,24-04-2000,Iasi,712345678,Elev
+P3,Ab4,2.25091E+12,Sescu,Cristina,24-09-2005,Iasi,987654321,Pensionar
+P4,Ab3,2.23122E+12,Vranceanu, Gabriel,23-12-1989,Bacau,234567890,Student
+P5,Ab2,1.63053E+12,Stan,Mihai,28-05-1963,Iasi,2352234234,Angajat
+P6,Ab1,2.41241E+12,Stan,Maria,24-12-1941,Bacau,,Pensionar
