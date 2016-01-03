@@ -1,0 +1,9 @@
+INSERT INTO Detalii_Reteta VALUES ('R01','M01');
+INSERT INTO Detalii_Reteta VALUES ('R02','M02');
+INSERT INTO Detalii_Reteta VALUES ('R03','M03');
+INSERT INTO Detalii_Reteta VALUES ('R04','M04');
+INSERT INTO Detalii_Reteta VALUES ('R05','M05');
+INSERT INTO Detalii_Reteta VALUES ('R06','M06');
+INSERT INTO Detalii_Reteta VALUES ('R07','M07');
+INSERT INTO Detalii_Reteta VALUES ('R08','M08');
+INSERT INTO Detalii_Reteta VALUES ('R09','M09');

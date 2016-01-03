@@ -1,0 +1,8 @@
+INSERT INTO Laboratoare VALUES('L01','Laborator 1',1);
+INSERT INTO Laboratoare VALUES('L02','Laborator 2',2);
+INSERT INTO Laboratoare VALUES('L03','Laborator 3',3);
+INSERT INTO Laboratoare VALUES('L04','Laborator 4',2);
+INSERT INTO Laboratoare VALUES('L05','Laborator 5',1);
+INSERT INTO Laboratoare VALUES('L06','Laborator 6',3);
+INSERT INTO Laboratoare VALUES('L07','Laborator 7',2);
+INSERT INTO Laboratoare VALUES('L08','Laborator 8',1);

@@ -1,0 +1,10 @@
+INSERT INTO Analize VALUES ('AL1', 'Determinare nivel calciu', 'TF1', 'A2', 'P6', 'L03');
+INSERT INTO Analize VALUES ('AL2', 'Analiza ADHD', 'TF2', 'A1', 'P5', 'L01');
+INSERT INTO Analize VALUES ('AL3', 'Biopsie ureche medie', 'TF3', 'A4', 'P3', 'L02');
+INSERT INTO Analize VALUES ('AL4', 'Toleranta la glucoza', 'TF4', 'A3', 'P6', 'L05');
+INSERT INTO Analize VALUES ('AL5', 'Nivel serotonina', 'TF5', 'A6', 'P5', 'L04');
+INSERT INTO Analize VALUES ('AL6', 'Cultura din secretie oculara', 'TF6', 'A5', 'P4', 'L07');
+INSERT INTO Analize VALUES ('AL7', 'Determinare nivel testosteron si estrogen', 'TF7', 'A8', 'P3', 'L06');
+INSERT INTO Analize VALUES ('AL8', 'Saturatia cu O2 a sangelui arterial', 'TF8', 'A7', 'P2', 'L08');
+INSERT INTO Analize VALUES ('AL9', 'Medulograma sau ex. citologic al maduvei osoase', 'TF9', 'A10', 'P1', 'L07');
+INSERT INTO Analize VALUES ('AL10', 'Analiza microbilor urechii', 'TF7', 'A9', 'P3', 'L08');

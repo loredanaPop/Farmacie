@@ -1,0 +1,8 @@
+INSERT INTO Echipamente_Tehnice VALUES ('E01','L01','Sterilizator cu aer cald EC 25','Sterilizare',2410);
+INSERT INTO Echipamente_Tehnice VALUES ('E02','L02','Masute instrumentar medical','Depozitare instrumente medicale',575);
+INSERT INTO Echipamente_Tehnice VALUES ('E03','L03','Cuptor dentar tip ucd','Stomatologie',5000);
+INSERT INTO Echipamente_Tehnice VALUES ('E04','L04','Masute instrumentar','Depozitare',575);
+INSERT INTO Echipamente_Tehnice VALUES ('E05','L05','Monitor pacient Mindray IMEC 12','Monitorizare cardiologie',9500);
+INSERT INTO Echipamente_Tehnice VALUES ('E06','L06','Aspirator Fazzini F - 40','Cardiologie',230);
+INSERT INTO Echipamente_Tehnice VALUES ('E07','L07','Scaun de recoltare Samatip','Recoltare',2000);
+INSERT INTO Echipamente_Tehnice VALUES ('E08','L08','Glucometru','Cabinet Diabet',500);

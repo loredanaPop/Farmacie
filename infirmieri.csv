@@ -1,0 +1,10 @@
+INSERT INTO Infirmieri VALUES ('In01','S01','S10','Cojan','Mihaela',DATE '1989-05-20','IBAN100901');
+INSERT INTO Infirmieri VALUES ('In02','S02','S11','Dumbrava','Mihaiela',DATE '1980-05-16','IBAN1009010');
+INSERT INTO Infirmieri VALUES ('In03','S03','S12','Curca','Dan',DATE '1950-12-12','IBAN1009011');
+INSERT INTO Infirmieri VALUES ('In04','S04','S32','Cojocariu','Livia',DATE '1967-08-28','IBAN1009012');
+INSERT INTO Infirmieri VALUES ('In05','S05','S20','Ermes','Iulia',DATE '1976-04-23','IBAN1009013');
+INSERT INTO Infirmieri VALUES ('In06','S06','S21','Gradinaru','georgiana',DATE '1968-07-23','IBAN1009014');
+INSERT INTO Infirmieri VALUES ('In07','S07','S22','Sarba','Ella',DATE '1965-01-02','IBAN1009015');
+INSERT INTO Infirmieri VALUES ('In08','S08','S23','Pestiosorul','Mihai',DATE '1963-03-08','IBAN1009016');
+INSERT INTO Infirmieri VALUES ('In09','S09','S30','Pahomi','Florentina',DATE '1973-05-29','IBAN1009017');
+INSERT INTO Infirmieri VALUES ('In10','S010','S31','Mosnegutu','Maricel',DATE '1965-04-29','IBAN1009019');

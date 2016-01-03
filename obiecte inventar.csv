@@ -1,0 +1,7 @@
+INSERT INTO Obiecte_Inventar VALUES ('I90','Dulap',400,'S33', NULL, NULL);
+INSERT INTO Obiecte_Inventar VALUES ('I91','Masa',550, NULL, NULL,'L01');
+INSERT INTO Obiecte_Inventar VALUES ('I92','Birou',800, NULL, 'E302', NULL);
+INSERT INTO Obiecte_Inventar VALUES ('I93','Scaun',250, NULL, 'E100', NULL);
+INSERT INTO Obiecte_Inventar VALUES ('I94','Pat',100,'S10', NULL, NULL);
+INSERT INTO Obiecte_Inventar VALUES ('I95','Fotoliu',900, NULL,'E202', NULL);
+INSERT INTO Obiecte_Inventar VALUES ('I96','Cuier',150, NULL, 'E102', NULL);

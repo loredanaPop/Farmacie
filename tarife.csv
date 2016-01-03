@@ -1,0 +1,9 @@
+INSERT INTO Tarife VALUES ('TF1', 'D02', 'Internare zi', 350);
+INSERT INTO Tarife VALUES ('TF2', 'D05', 'Spitalizare Junior', 420);
+INSERT INTO Tarife VALUES ('TF3', NULL, 'Spitalizare terapie intesiva', 750);
+INSERT INTO Tarife VALUES ('TF4', NULL, 'Spitalizare rezerva', 285);
+INSERT INTO Tarife VALUES ('TF5', NULL, 'Consultatie medic garda', 160);
+INSERT INTO Tarife VALUES ('TF6', NULL, 'Transfuzie', 60);
+INSERT INTO Tarife VALUES ('TF7', NULL, 'Tratament intravenos', 60);
+INSERT INTO Tarife VALUES ('TF8', 'D15', 'Consulatie initiala', 80);
+INSERT INTO Tarife VALUES ('TF9', NULL, 'Taxa Urgenta analize medicale', 50);

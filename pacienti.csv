@@ -1,0 +1,6 @@
+INSERT INTO Pacienti VALUES ('P1','Ab6','1950525345678','Vasilescu','Dan',DATE'1995-05-25','Iasi, str. VAsilescu, nr 5',745678990,'Elev');
+INSERT INTO Pacienti VALUES ('P2','Ab5','1200424123456','Vasiliu','Manu',DATE '2000-04-24','Iasi, str. Bahnlui',712345678,'Elev');,
+INSERT INTO Pacienti VALUES ('P3','Ab4','2250909012346','Sescu' ,'Cristina',DATE'2005-09-24', 'Iasi, str. Podu de fier',987654321, 'Elev');,
+INSERT INTO Pacienti VALUES ('P4','Ab3','2231219891236','Vranceanu',' Gabriel',DATE'1989-12-23','Iasi str. Bacinschi, nr 4',234567890,'Masterand');,
+INSERT INTO Pacienti VALUES ('P5','Ab2','1630528908990','Stan','Mihai',DATE'1963-05-28','Vaslui, str. Tabacului',2352234234,'Angajat');,
+INSERT INTO Pacienti VALUES ('P6','Ab1','2412412129078','Stan','Maria',DATE'1941-12-24','Bralad, str. Pruncului',NULL,'Pensionar');,

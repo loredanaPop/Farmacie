@@ -1,0 +1,10 @@
+INSERT INTO Diagnostice VALUES ('D0','Giardiaza');
+INSERT INTO Diagnostice VALUES ('D1','Diaree si gastroenterita');
+INSERT INTO Diagnostice VALUES ('D2','Oxiuraza');
+INSERT INTO Diagnostice VALUES ('D3','Anemie');
+INSERT INTO Diagnostice VALUES ('D4','Diabet zaharat');
+INSERT INTO Diagnostice VALUES ('D5','Tulburari anxioase');
+INSERT INTO Diagnostice VALUES ('D6','Gripa');
+INSERT INTO Diagnostice VALUES ('D7','Parkinson');
+INSERT INTO Diagnostice VALUES ('D8','Conjunctivita');
+INSERT INTO Diagnostice VALUES ('D9','Cataracta'); 

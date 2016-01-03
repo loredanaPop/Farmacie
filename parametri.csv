@@ -1,0 +1,10 @@
+INSERT INTO Parametri VALUES ('PA1', 'Hemoglobina',12,16.00);
+INSERT INTO Parametri VALUES ('PA2','Hematocrit',37,47.00);
+INSERT INTO Parametri VALUES ('PA3','Trombocite',150,450.00);
+INSERT INTO Parametri VALUES ('PA4','VEM',78.3,98.00);
+INSERT INTO Parametri VALUES ('PA5','HEM',27,31.00);
+INSERT INTO Parametri VALUES ('PA6','CHEM',32,36.00);
+INSERT INTO Parametri VALUES ('PA7','Eritrocite',4.2,5.40);
+INSERT INTO Parametri VALUES ('PA8','Glucoza',75,115.00);
+INSERT INTO Parametri VALUES ('PA9','Uree',10,50.00);
+INSERT INTO Parametri VALUES ('PA10','Colesterol',128,181.00);
